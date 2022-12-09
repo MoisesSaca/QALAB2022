@@ -21,7 +21,8 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        //Editado por Pedro Moises Saca Barraza curso QALAB
+        String user = config[XPROD][CUSER];
 
         //CLAVE: DESARROLLO
 
